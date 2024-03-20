@@ -21,8 +21,8 @@ Putty <br>
 ### Screenshots:
 
 <div>
-  <img src="Screenshot/Screenshot (1).png" width="500" hspace="20">
-  <img src="Screenshot/Screenshot (2).png" width="500" hspace="20">
-  <img src="Screenshot/Screenshot (3).png" width="500" hspace="20">
-  <img src="Screenshot/Screenshot.png" width="500" hspace="20">
+  <img src="Screenshot/Screenshot (1).png" width="700" hspace="50">
+  <img src="Screenshot/Screenshot (2).png" width="700" hspace="50">
+  <img src="Screenshot/Screenshot (3).png" width="700" hspace="5">
+  <img src="Screenshot/Screenshot.png" width="700" hspace="50">
 </div>
