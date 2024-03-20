@@ -18,3 +18,4 @@ AWS EC2 server<br>
 Ubuntu server<br>
 WinSCP <br>
 Putty <br>
+[product-screenshot]: ./Screenshot/Screenshot (1).png
