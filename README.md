@@ -20,12 +20,9 @@ WinSCP <br>
 Putty <br>
 ### Screenshots:
 
-<div align="center">
-  <img src="Screenshot/Screenshot (1).png" width="200" hspace="20">
-  <img src="Screenshot/Screenshot (2).png" width="200" hspace="20">
-</div>
-
-<div align="center">
-  <img src="Screenshot/Screenshot (3).png" width="200" hspace="20">
-  <img src="Screenshot/Screenshot.png" width="200" hspace="20">
+<div>
+  <img src="Screenshot/Screenshot (1).png" width="500" hspace="20">
+  <img src="Screenshot/Screenshot (2).png" width="500" hspace="20">
+  <img src="Screenshot/Screenshot (3).png" width="500" hspace="20">
+  <img src="Screenshot/Screenshot.png" width="500" hspace="20">
 </div>
