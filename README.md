@@ -18,6 +18,7 @@ AWS EC2 server<br>
 Ubuntu server<br>
 WinSCP <br>
 Putty <br>
+
 ### Screenshots:
 
 <div>
